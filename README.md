@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Giulia Sepeda
 
-[![](https://komarev.com/ghpvc/?username=giuuusepeda&color=blue)](https://github.com/giuusepeda)
-[![](https://img.shields.io/github/followers/giuuusepeda?label=Follow&style=social)](https://github.com/giuusepeda)
+[![](https://komarev.com/ghpvc/?username=giuuusepeda&color=blue)](https://github.com/giuuusepeda)
+[![](https://img.shields.io/github/followers/giuuusepeda?label=Follow&style=social)](https://github.com/giuuusepeda)
 
 ---
 
