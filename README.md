@@ -5,7 +5,7 @@
 
 ---
 
-🧠 **I’m a nurse-turned-data analyst** with a passion for health data, public health impact, and empowering decision-making through evidence.
+🧠 **I’m a nurse-turned-data scientist** with a passion for health data, public health impact, and empowering decision-making through evidence.
 
 💡 Currently working on:
 - R Shiny dashboards for substance use surveillance
