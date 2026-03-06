@@ -5,7 +5,7 @@
 
 ---
 
-🧠 **I’m a nurse-turned-data scientist** with a passion for health data, public health impact, and empowering decision-making through evidence.
+🧠 **I’m a Health data scientist** with a passion for public health impact, and empowering decision-making through evidence. 
 
 💡 Currently working on:
 - R Shiny dashboards for substance use surveillance
@@ -18,8 +18,9 @@
 
 📫 **Connect with me**  
 
-🌐 [Web Portfolio](https://giuliasepeda.carrd.co/)
-📄 [LinkedIn](https://linkedin.com/in/giuliasepeda)  💼 [Upwork Profile](https://www.upwork.com/freelancers/giuliasepeda?s=1110580752008335360)
+
+📄 [LinkedIn](https://linkedin.com/in/giuliasepeda) 
+📈 [Kaggle](https://www.kaggle.com/giuliasepeda)
 
 ---
 
